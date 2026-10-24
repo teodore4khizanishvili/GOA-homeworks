@@ -14,7 +14,7 @@
 #from here i will write in corect forms
 first_name = "Gio"
 last_name = "Kavtaradze"
-age = "17"
+age = 17
 city = "Tbilisi"
 
 print(first_name)

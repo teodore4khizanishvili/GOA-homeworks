@@ -1,0 +1,1 @@
+#integers: value is represented by int class. it contains positive or negative whole numbers (without fractions or decimals).
